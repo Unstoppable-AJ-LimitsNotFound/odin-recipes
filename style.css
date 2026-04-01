@@ -1,0 +1,49 @@
+body  {
+    background-color: rgb(255, 174, 87);
+}   
+
+h1 {
+    text-align: center;
+    background-color: aqua;
+    padding: 10px;
+    margin: 20px;
+}
+
+ul {
+    list-style: none;
+    width: 300px;
+    margin: 0 auto;
+}
+
+li {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid black;
+    font-weight: bold;
+}
+
+ a {
+    color: red;
+    text-decoration: none;
+    display: inline-block;
+    background-color: black;
+    font-weight: bolder;
+    font-size: 15px;
+    padding: 5px 10px;
+    margin: 5px;
+}
+
+img {
+    display: block;
+    height: 188px;
+    width: 282px;
+    margin: 10px auto;
+    border: 5px dashed black;
+}
+
+h2 {
+    background-color: aquamarine;
+    padding: 10px;
+}
+
